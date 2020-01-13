@@ -1,9 +1,8 @@
 h1 {
     color: black;
-    padding-top: 3em;
     text-align: center;
 }
-.board {
+#board {
     padding-top: 3em;
     text-align: center;
 }
