@@ -34,3 +34,6 @@ div.row > div {
 .right {
     border-left: 1px solid black;
 }
+.top, .middle, .center, .bottom:hover {
+    cursor: pointer;
+}
